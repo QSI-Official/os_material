@@ -83,7 +83,7 @@ You need to determine which one best suits your needs; sometimes, more than one 
 
 We have made a small program (two, actually) that can help you visualise the child processes that your shell makes, and see file redirection and pipes between them.
 
-Tutorial video: [](https://www.youtube.com/watch?v=9KO8XPSNHqc&t=251s)
+Tutorial video: [(Youtube Link)](https://www.youtube.com/watch?v=9KO8XPSNHqc&t=251s)
 
 Two useful programs, both of which live [in this github repo](https://github.com/j4cobgarby/rptree):
 
